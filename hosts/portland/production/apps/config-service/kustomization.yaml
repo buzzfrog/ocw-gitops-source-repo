@@ -1,0 +1,5 @@
+resources:
+- ./../../../../../apps/config-service/v1
+- namespace.yaml
+
+namespace: config-service

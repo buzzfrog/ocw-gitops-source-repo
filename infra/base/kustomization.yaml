@@ -1,0 +1,5 @@
+resources:
+- mosquitto-configmap.yaml
+- mosquitto-deployment.yaml
+- mosquitto-namespace.yaml
+- mosquitto-service.yaml
